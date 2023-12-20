@@ -1,0 +1,598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Floating Button Lite\n"
+"POT-Creation-Date: 2022-09-29 16:00+0300\n"
+"PO-Revision-Date: 2022-09-29 15:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: floating-button.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-admin.php:137
+msgid "More features in the PRO version"
+msgstr ""
+
+#: admin/class-admin.php:237
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:255
+#, php-format
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">"
+msgstr ""
+
+#: admin/class-admin.php:303
+msgid "Something went wrong. Contact the plugin developer"
+msgstr ""
+
+#: admin/class-admin.php:316 admin/page-main.php:21
+msgid "Item Added"
+msgstr ""
+
+#: admin/class-admin.php:332 admin/page-main.php:23
+msgid "Item Updated"
+msgstr ""
+
+#: admin/class-admin.php:361
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: admin/class-admin.php:361 admin/class-admin.php:367
+msgid "Error"
+msgstr ""
+
+#: admin/class-admin.php:367
+msgid "Please upload a file to import"
+msgstr ""
+
+#: admin/class-list-table.php:106 admin/class-list-table.php:231
+msgid "Untitle"
+msgstr ""
+
+#: admin/class-list-table.php:115
+msgid "Edit"
+msgstr ""
+
+#: admin/class-list-table.php:116
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-list-table.php:118 admin/page-settings.php:81
+msgid "Delete"
+msgstr ""
+
+#: admin/class-list-table.php:119 admin/page-tools.php:29
+msgid "Export"
+msgstr ""
+
+#: admin/class-list-table.php:311
+msgid "Delate"
+msgstr ""
+
+#: admin/page-list.php:25
+msgid "Search"
+msgstr ""
+
+#: admin/page-main.php:27
+msgid "Item Deleted"
+msgstr ""
+
+#: admin/page-main.php:33
+msgid "List"
+msgstr ""
+
+#: admin/page-main.php:34
+msgid "Add new"
+msgstr ""
+
+#: admin/page-main.php:35
+msgid "Pro Features"
+msgstr ""
+
+#: admin/page-main.php:36
+msgid "Import/Export"
+msgstr ""
+
+#: admin/page-main.php:37
+msgid "Support"
+msgstr ""
+
+#: admin/page-main.php:38
+msgid "Rate"
+msgstr ""
+
+#: admin/page-main.php:48
+msgid "Add New"
+msgstr ""
+
+#: admin/page-main.php:73 admin/settings/database.php:30
+msgid "Update"
+msgstr ""
+
+#: admin/page-settings.php:37
+msgid "Register an menu name"
+msgstr ""
+
+#: admin/page-settings.php:49
+msgid "Publish"
+msgstr ""
+
+#: admin/page-settings.php:57
+msgid "Activated"
+msgstr ""
+
+#: admin/page-settings.php:62
+msgid "Test mode"
+msgstr ""
+
+#: admin/page-settings.php:86
+msgid "Saving"
+msgstr ""
+
+#: admin/page-settings.php:120
+msgid "Main"
+msgstr ""
+
+#: admin/page-settings.php:124
+msgid "Sub Buttons 1"
+msgstr ""
+
+#: admin/page-settings.php:128
+msgid "Sub Buttons 2"
+msgstr ""
+
+#: admin/page-settings.php:132
+msgid "Display"
+msgstr ""
+
+#: admin/page-support.php:24
+#, php-format
+msgid ""
+"To get your support related question answered in the fastest timing, please "
+"send a message via the form below or write to us on email %1$s"
+msgstr ""
+
+#: admin/page-support.php:28
+msgid ""
+"Also, you can send us your ideas and suggestions for improving the plugin."
+msgstr ""
+
+#: admin/page-support.php:50
+msgid "Please, Enter your Message."
+msgstr ""
+
+#: admin/page-support.php:53
+msgid "Please, Enter your Email."
+msgstr ""
+
+#: admin/page-support.php:81
+msgid "Your Message sent to the Support."
+msgstr ""
+
+#: admin/page-support.php:88
+msgid ""
+"Sorry, but message did not send. Please, contact us helper@wow-company.com"
+msgstr ""
+
+#: admin/page-support.php:104
+msgid "First Name"
+msgstr ""
+
+#: admin/page-support.php:108
+msgid "Enter Your First Name"
+msgstr ""
+
+#: admin/page-support.php:116
+msgid "Last Name"
+msgstr ""
+
+#: admin/page-support.php:120
+msgid "Enter Your Last Name"
+msgstr ""
+
+#: admin/page-support.php:130
+msgid "Link to the page with issue"
+msgstr ""
+
+#: admin/page-support.php:142
+msgid "Contact email"
+msgstr ""
+
+#: admin/page-support.php:158
+msgid "Plugin"
+msgstr ""
+
+#: admin/page-support.php:171
+msgid "Message type"
+msgstr ""
+
+#: admin/page-support.php:176
+msgid "Issue"
+msgstr ""
+
+#: admin/page-support.php:177
+msgid "Idea"
+msgstr ""
+
+#: admin/page-support.php:190
+msgid "Enter Your Message"
+msgstr ""
+
+#: admin/page-support.php:205
+msgid "Send to Support"
+msgstr ""
+
+#: admin/page-tools.php:22
+msgid "Export Settings"
+msgstr ""
+
+#: admin/page-tools.php:25
+#, php-format
+msgid ""
+"Export the  settings for %s as a .json file. This allows you to easily "
+"import the configuration into another site."
+msgstr ""
+
+#: admin/page-tools.php:36
+msgid "Import Settings"
+msgstr ""
+
+#: admin/page-tools.php:39
+#, php-format
+msgid ""
+"Import the %s settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/page-tools.php:47
+msgid "Update item if item already exists."
+msgstr ""
+
+#: admin/page-tools.php:55
+msgid "Import"
+msgstr ""
+
+#: admin/settings/clone.php:24 admin/settings/clone.php:143
+#: admin/settings/horizontal.php:27 admin/settings/main.php:23
+#: admin/settings/vertical.php:27
+msgid "no label"
+msgstr ""
+
+#: admin/settings/clone.php:38 admin/settings/clone.php:157
+#: admin/settings/horizontal.php:43 admin/settings/main.php:33
+#: admin/settings/vertical.php:43
+msgid "Label Text"
+msgstr ""
+
+#: admin/settings/clone.php:44 admin/settings/clone.php:163
+#: admin/settings/horizontal.php:49 admin/settings/main.php:39
+#: admin/settings/vertical.php:49
+msgid "Enable Tooltip"
+msgstr ""
+
+#: admin/settings/clone.php:48 admin/settings/clone.php:167
+#: admin/settings/horizontal.php:53 admin/settings/main.php:42
+#: admin/settings/vertical.php:53
+msgid "Type"
+msgstr ""
+
+#: admin/settings/clone.php:49 admin/settings/clone.php:75
+#: admin/settings/clone.php:168 admin/settings/clone.php:195
+#: admin/settings/horizontal.php:54 admin/settings/horizontal.php:80
+#: admin/settings/vertical.php:54 admin/settings/vertical.php:80
+msgid "Icon"
+msgstr ""
+
+#: admin/settings/clone.php:50 admin/settings/clone.php:169
+#: admin/settings/horizontal.php:55 admin/settings/main.php:44
+#: admin/settings/vertical.php:55
+msgid "Style"
+msgstr ""
+
+#: admin/settings/clone.php:51 admin/settings/clone.php:170
+#: admin/settings/horizontal.php:56 admin/settings/main.php:45
+#: admin/settings/vertical.php:56
+msgid "Attributes"
+msgstr ""
+
+#: admin/settings/clone.php:58 admin/settings/clone.php:177
+#: admin/settings/horizontal.php:63 admin/settings/vertical.php:63
+msgid "Item type"
+msgstr ""
+
+#: admin/settings/clone.php:65 admin/settings/clone.php:184
+#: admin/settings/horizontal.php:70 admin/settings/main.php:57
+#: admin/settings/options/clone.php:54 admin/settings/options/clone.php:145
+#: admin/settings/options/horizontal.php:60 admin/settings/options/main.php:219
+#: admin/settings/options/vertical.php:61 admin/settings/vertical.php:70
+msgid "Link"
+msgstr ""
+
+#: admin/settings/clone.php:85 admin/settings/clone.php:205
+#: admin/settings/horizontal.php:91 admin/settings/main.php:114
+#: admin/settings/vertical.php:90
+msgid "Button color"
+msgstr ""
+
+#: admin/settings/clone.php:91 admin/settings/clone.php:211
+#: admin/settings/horizontal.php:97 admin/settings/main.php:121
+#: admin/settings/vertical.php:96
+msgid "Button hover color"
+msgstr ""
+
+#: admin/settings/clone.php:97 admin/settings/clone.php:217
+#: admin/settings/horizontal.php:103 admin/settings/main.php:128
+#: admin/settings/vertical.php:102
+msgid "Icon color"
+msgstr ""
+
+#: admin/settings/clone.php:107 admin/settings/clone.php:227
+#: admin/settings/horizontal.php:113 admin/settings/vertical.php:112
+msgid "ID for element"
+msgstr ""
+
+#: admin/settings/clone.php:115 admin/settings/clone.php:235
+#: admin/settings/horizontal.php:121 admin/settings/main.php:156
+#: admin/settings/vertical.php:120
+msgid "Class for element"
+msgstr ""
+
+#: admin/settings/clone.php:123 admin/settings/clone.php:243
+#: admin/settings/horizontal.php:129 admin/settings/vertical.php:128
+msgid "Attribute: rel"
+msgstr ""
+
+#: admin/settings/clone.php:130 admin/settings/clone.php:250
+#: admin/settings/horizontal.php:136 admin/settings/vertical.php:135
+msgid "Remove"
+msgstr ""
+
+#: admin/settings/database.php:39 admin/settings/database.php:51
+msgid "Save"
+msgstr ""
+
+#: admin/settings/display.php:18
+msgid "Show on devices"
+msgstr ""
+
+#: admin/settings/display.php:24
+msgid "Don't show on screens more"
+msgstr ""
+
+#: admin/settings/display.php:36
+msgid "Don't show on screens less"
+msgstr ""
+
+#: admin/settings/display.php:51
+msgid "Font Awesome"
+msgstr ""
+
+#: admin/settings/display.php:56
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/horizontal.php:147 admin/settings/vertical.php:146
+msgid "Add item"
+msgstr ""
+
+#: admin/settings/main.php:43
+msgid "Icons"
+msgstr ""
+
+#: admin/settings/main.php:50
+msgid "Button type"
+msgstr ""
+
+#: admin/settings/main.php:66
+msgid "Main Icon"
+msgstr ""
+
+#: admin/settings/main.php:78
+msgid "Position"
+msgstr ""
+
+#: admin/settings/main.php:84
+msgid "Button shape"
+msgstr ""
+
+#: admin/settings/main.php:90
+msgid "Size"
+msgstr ""
+
+#: admin/settings/main.php:96
+msgid "Button animation"
+msgstr ""
+
+#: admin/settings/main.php:102
+msgid "Sub-buttons Animation"
+msgstr ""
+
+#: admin/settings/main.php:135
+msgid "Tooltip background"
+msgstr ""
+
+#: admin/settings/main.php:142
+msgid "Tooltip color"
+msgstr ""
+
+#: admin/settings/options/clone.php:55 admin/settings/options/clone.php:146
+#: admin/settings/options/horizontal.php:61
+#: admin/settings/options/vertical.php:62
+msgid "Login"
+msgstr ""
+
+#: admin/settings/options/clone.php:56 admin/settings/options/clone.php:147
+#: admin/settings/options/horizontal.php:62
+#: admin/settings/options/vertical.php:63
+msgid "Logout"
+msgstr ""
+
+#: admin/settings/options/clone.php:57 admin/settings/options/clone.php:148
+#: admin/settings/options/horizontal.php:63
+#: admin/settings/options/vertical.php:64
+msgid "Register"
+msgstr ""
+
+#: admin/settings/options/clone.php:58 admin/settings/options/clone.php:149
+#: admin/settings/options/horizontal.php:64
+#: admin/settings/options/vertical.php:65
+msgid "Lostpassword"
+msgstr ""
+
+#: admin/settings/options/clone.php:77 admin/settings/options/clone.php:166
+#: admin/settings/options/main.php:179
+msgid "Set ID for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:87 admin/settings/options/clone.php:176
+#: admin/settings/options/main.php:190
+msgid "Set Class for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:89 admin/settings/options/clone.php:178
+#: admin/settings/options/main.php:192
+msgid "You may enter several classes separated by a space."
+msgstr ""
+
+#: admin/settings/options/display.php:27
+msgid "Specify the window breakpoint in px when the button will be shown."
+msgstr ""
+
+#: admin/settings/options/display.php:55
+msgid "Specify the window breakpoint ( mix width) in px."
+msgstr ""
+
+#: admin/settings/options/display.php:81
+msgid "Disable Font Awesome 5 style on front-end of the site."
+msgstr ""
+
+#: admin/settings/options/display.php:83
+msgid ""
+"If you already have a Font Awesome 5 installed on the site, you can disable "
+"the include the Font Awesome 5 style."
+msgstr ""
+
+#: admin/settings/options/general.php:23
+msgid ""
+"If check - the popup will show on the frontend. If uncheck - popup not "
+"displayed on the frontend."
+msgstr ""
+
+#: admin/settings/options/general.php:34
+msgid "If test mode is enabled, the popup will show for admin only."
+msgstr ""
+
+#: admin/settings/options/general.php:40
+msgid "All site"
+msgstr ""
+
+#: admin/settings/options/general.php:41
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/settings/options/general.php:55
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/settings/options/horizontal.php:75 admin/settings/options/main.php:229
+#: admin/settings/options/vertical.php:74
+msgid "Enter URL"
+msgstr ""
+
+#: admin/settings/options/main.php:39
+msgid "bottom-right"
+msgstr ""
+
+#: admin/settings/options/main.php:44
+msgid "Specify floating button location on screen."
+msgstr ""
+
+#: admin/settings/options/main.php:64
+msgid "Select the Icon for button"
+msgstr ""
+
+#: admin/settings/options/main.php:93
+msgid "Circle"
+msgstr ""
+
+#: admin/settings/options/main.php:104
+msgid "Medium"
+msgstr ""
+
+#: admin/settings/options/main.php:115
+msgid "Fade"
+msgstr ""
+
+#: admin/settings/options/main.php:203
+msgid "None"
+msgstr ""
+
+#: admin/settings/options/main.php:208
+msgid "Animation for main button"
+msgstr ""
+
+#: admin/settings/options/main.php:218
+msgid "Main Button"
+msgstr ""
+
+#: admin/settings/options/main.php:234 admin/settings/options/main.php:241
+msgid "Types of the button which can be select"
+msgstr ""
+
+#: admin/settings/options/main.php:236
+msgid "<strong>Main Button</strong> - button has some sub buttons"
+msgstr ""
+
+#: admin/settings/options/main.php:243
+msgid "<strong>Link</strong> - insert any link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: floating-button.php:52 floating-button.php:53
+msgid "Floating Button Lite"
+msgstr ""
+
+#: floating-button.php:73
+msgid "WordPress.org"
+msgstr ""
+
+#: floating-button.php:105 floating-button.php:117
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/about/wow-plugins.php:56
+msgid "Active Installs"
+msgstr ""
+
+#: public/partials/public.php:25
+msgid "Floating button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/floating-button/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easily create a floating button"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""
